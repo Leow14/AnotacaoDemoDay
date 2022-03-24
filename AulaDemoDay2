@@ -1,0 +1,170 @@
+5W 2H
+
+Plano de ação
+1 I - Inicialização
+2 P - Planejamento
+3 E - Execução
+4 M - Monitoramento 
+5 E - Encerramento
+
+Regra de negócio
+
+Metodologia Ágil:
+- Organização{
+- (Planejamento)
+}
+
+- Processos{
+- (Flexibilidade)
+}
+
+- Ferramentas
+- Rapidez
+- Gestão de tempo
+
+S-E-A-ontem
+
+Tecnologia muda muito rapido.
+
+Metodologias Ágeis:
+Metodologia Ágil é uma forma de conduzir projetos que busca dar maior rapidez aos processos e à conclusão de tarefas. Não apenas isso, mas o agile baseia-se 
+em um fluxo de trabalho mais ágil, flexível, sem tantos obstáculos, com total iteratividade.
+
+Rapidez
+-Ser rapido, mas manter a qualidade de trabalho.
+-Delegar tarefas.
+-Responsabilidade e dividir o trabalho.
+
+Metodologias Ageis - Valores {
+
+Individuos e interações
+- Mais importante que processos e ferramentas.
+
+Software em funcionamento
+- Mais importante que a documentação abrangente.
+
+Colaboração com o cliente
+- Mais importante que a negociação de contratos.
+
+Responder as mudanças
+- Mais importante que seguir um plano.
+
+(Estão todos interligados)
+(Também está relacioado a mudanças)
+}
+
+PDCA - Limitação, pois o cliente final só vê o produto final, não enxerga as etapas, e caso queira alguma mudança, terá que voltar a estaca 0, ao ínicio do projeto.
+PDCA
+Planejar ->
+Desenvolver ->
+Checar ->
+Agir ->
+
+Scrum
+PDCA com o cliente vendo cada processo.
+
+Melhoria contínua em desenvolvimento de software.
+
+Objetivo:
+A fim de cada ciclo, 1 entrega, para ter um "pedaço" do produto de forma constante. 
+Se o cliente quiser rever ou mudar algo, é possível de maneira rapida e ágil.
+
+Bem mais rapido a execução, mesmo com mudanças.
+
+Scrum
+Framework ágil, adaptável, rapido, flexível e eficaz que busca oferecer valor ao cliente durante todo o desenv.
+
+Objetivo: Satisfazer a necessidade do cliente através de um ambiente de transparência, comunicação e responsabilidade coletiva.
+
+
+(\\\\\\\\\\\\\\Scrum\\\\\\\\\\\\\\)
+^                                ^
+I                                I
+Coletividade                     Integração
+
+<---Visibilidade
+Tramsparência<---   ---->Adaptação
+
+A equipe tem conhecimento do progresso do projeto em tempo real, classificado as tarefas em 3 estágios:
+
+.To do (o que há para ser feito)
+.Ready rasks (fazendo)
+.Done (feito)
+(Lembrar dos post-it's)
+
+Scrum (Elementos)
+.Papéis
+.Artefatos
+.Evento
+
+Papéis:
+
+(Dono do produto
+Product Owner
+Regra de Negócio)
+
+(Scrum master
+Líder - Pessoas e processos)
+- (Caminha junto com os developers, NÃO é um gerente.)
+
+(Time de desenv. / Developers)
+(Back end \ front end \ Banco de dados, etc)
+
+Documentação e Elementos gráficos
+Artefatos
+
+Product Backlog
+Lista de funcionalidades do projeto, em forma de prioridades. (Product Owner e Scrum Master)
+
+1 - Imprescindível
+2 - Importante
+3 - Seria bom ter
+
+Sprint Backlog
+Informações necessárias para realizar 1 sprint - cria as tarefas, por prioridade, com base no product backlog.
+
+Tempo de duração fixa de 1 sprint: 2 a 4 semanas. (depende do tamanho do projeto)
+PRIORIDADES / Sprintbacklog é uma reunião
+
+Sprint 1
+Planejamento.
+Colocar as prioridades listadas.
+O que tem que ser feito.
+
+Daily Scrum
+Reuniões de 15 minutos.
+
+Último dia do Sprint.
+^
+Sprint review - validar ou não o produto
+Talvez precise incrementar
+
+Scrum master e Product Owner andam sempre juntos
+
+Burndown
+Gráfico que mostra as estórias do projeto.
+Itens a fazer - Tempo.
+
+Final do projeto:
+Devs conversam pra rever e analisar como o projeto foi feito, e se preparam para o próximo sprint.
+
+Trabalhando com gestão, gestão do tempo e liderança.
+
+1-Documento = Hoje.
+
+1
+-Nome do projeto
+- Logo
+- Cores
+- Identidade Visual
+- Missão, visão e valores.
+
+2
+-Pesquisa sobre sua causa raiz.
+-Porquê? - Embasamento teórico
+-Levantamento de dados.
+
+3
+Inicio do desenv do site.
+Detalhar o que precisa ser feito
+Esquematizar a apresentação do Demoday
